@@ -1,9 +1,24 @@
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxtcarson&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nxtcarson&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtcarson&theme=midnight-purple&background=30,e96443,904e95&ring=fff&fire=fff&currStreakLabel=fff&hide_border=true">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcarson&layout=compact&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nxtcarson&theme=darkhub&no-frame=true&column=3&row=2">
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcarson&layout=compact&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nxtcarson&theme=midnight-purple&background=30,e96443,904e95&ring=fff&fire=fff&currStreakLabel=fff)](https://git.io/streak-stats)
+[![An image of @nxtcarson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nxtcarson)](https://holopin.io/@nxtcarson)
 
 </div> 

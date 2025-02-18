@@ -6,7 +6,7 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nxtcarson&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtcarson&theme=midnight-purple&background=30,e96443,904e95&ring=fff&fire=fff&currStreakLabel=fff&hide_border=true">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nxtcarson&theme=rogue&bg_color=30,e96443,904e95&color=fff&line=fff&point=fff&hide_border=true">
     </td>
   </tr>
   <tr>

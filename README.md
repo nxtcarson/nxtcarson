@@ -14,7 +14,7 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcarson&layout=compact&theme=dark&bg_color=000000&title_color=fff&text_color=fff&hide_border=true">
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nxtcarson&theme=dark&no-frame=true&column=3&row=2">
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nxtcarson&theme=monokai&no-frame=true&column=3&row=2">
     </td>
   </tr>
 </table>

@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nxtcarson&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nxtcarson&show_icons=true&theme=apprentice&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
     </td>
     <td width="50%">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nxtcarson&theme=rogue&bg_color=30,e96443,904e95&color=fff&line=fff&point=fff&hide_border=true">
@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcarson&layout=compact&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcarson&layout=compact&theme=apprentice&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
     </td>
     <td width="50%">
       <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nxtcarson&theme=darkhub&no-frame=true&column=3&row=2">
